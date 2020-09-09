@@ -6,7 +6,7 @@ using namespace std;
 
 int unboundedKnapsack(int wt[], int val[], int n, int w) {
     /*
-        Knapsack problem where the same item can be repeated multiple times
+        0/1 Knapsack
     */
 
    int dp[100][100]={0};
