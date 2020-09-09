@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int unboundedKnapsack(int wt[], int val[], int n, int w) {
+int boundedKnapsack(int wt[], int val[], int n, int w) {
     /*
         0/1 Knapsack
     */
