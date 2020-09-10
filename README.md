@@ -7,3 +7,4 @@
 3. Wine Problem(Sell 1 bottle per year, max profit)
 4. Unbounded Knapsack
 5. 0/1 KnapSack
+6. Fibonacci
