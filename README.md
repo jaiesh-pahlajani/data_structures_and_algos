@@ -10,3 +10,4 @@
 6. Fibonacci
 7. Grid Problem - Shortest Path - 2D array
 8. Ladder Problem(All possible combinations)
+9. Coin problem (All possible combinations)
