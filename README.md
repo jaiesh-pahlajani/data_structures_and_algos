@@ -12,3 +12,4 @@
 8. Ladder Problem(All possible combinations)
 9. Coin problem (All possible combinations)
 10. Min Coin Change(for a given value) 
+11. Max Ribbon Cut(https://www.geeksforgeeks.org/maximum-product-cutting-dp-36/)
