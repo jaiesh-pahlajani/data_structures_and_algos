@@ -13,3 +13,4 @@
 9. Coin problem (All possible combinations)
 10. Min Coin Change(for a given value) 
 11. Max Ribbon Cut(https://www.geeksforgeeks.org/maximum-product-cutting-dp-36/)
+12. Equal Subset Sum Partition(https://leetcode.com/problems/partition-equal-subset-sum/)
