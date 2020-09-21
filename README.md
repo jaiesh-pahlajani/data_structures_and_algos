@@ -15,3 +15,4 @@
 11. Max Ribbon Cut(https://www.geeksforgeeks.org/maximum-product-cutting-dp-36/)
 12. Equal Subset Sum Partition(https://leetcode.com/problems/partition-equal-subset-sum/)
 13. Subset Sum(https://www.geeksforgeeks.org/subset-sum-problem-dp-25/)
+14. Minimum Subset Difference(https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/)
