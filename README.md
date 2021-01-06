@@ -18,4 +18,10 @@
 14. Minimum Subset Difference(https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/)
 
 # LinkedList
-1. Singly Linked List
+1. Singly Linked List - Delete, Prepend
+
+# Stack
+1. Array Implementation
+
+# Queue
+1. Array Implementation
