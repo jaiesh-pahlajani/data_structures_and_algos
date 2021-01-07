@@ -25,3 +25,6 @@
 
 # Queue
 1. Array Implementation
+
+# Trees
+1. Binary Search Tree
